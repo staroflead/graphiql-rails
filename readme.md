@@ -1,6 +1,8 @@
 # GraphiQL-Rails [![Gem Version](https://badge.fury.io/rb/graphiql-rails.svg)](https://badge.fury.io/rb/graphiql-rails) [![Tests](https://github.com/rmosolgo/graphiql-rails/actions/workflows/test.yml/badge.svg)](https://github.com/rmosolgo/graphiql-rails/actions/workflows/test.yml)
 
 Mount the [GraphiQL IDE](https://github.com/graphql/graphiql) in Ruby on Rails.
+With header editor. Credit to [gingermusketeer/graphiql-rails](https://github.com/gingermusketeer/graphiql-rails)
+
 
 ![image](https://cloud.githubusercontent.com/assets/2231765/12101544/4779ed54-b303-11e5-918e-9f3d3e283170.png)
 
